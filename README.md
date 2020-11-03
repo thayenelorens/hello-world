@@ -1,2 +1,3 @@
 # hello-world
-My first git
+My name is Thayene Lorens.
+I am enjoying this part of my course a lot.
